@@ -25,3 +25,5 @@ On other systems: I didn't try to build this app for other systems.
 [GTK3](https://www.gtk.org/) - for Native File Dialog. License: [LGPL](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
 
 [Dear ImGui](https://github.com/ocornut/imgui). License: [MIT](https://github.com/ocornut/imgui/blob/master/LICENSE.txt).
+
+[Panda3D ImGui Helper](https://github.com/bluekyu/panda3d_imgui) - not a library, but made not by me. License: [MIT](https://github.com/bluekyu/panda3d_imgui/blob/master/LICENSE.md).
